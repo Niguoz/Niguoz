@@ -3,6 +3,7 @@
 ### Role : Game Programmer
 ### Type of Game : Driving with Narrative and Managment elements
 ### DBGA in collaboration with 34BigThings
+#### I worked on the logic for the spawn of the resources/obstacles, the sandstorm, the sandworm and the UI
 #### March 2022 - July 2022
 #### Game Screenshot
 ![image](https://user-images.githubusercontent.com/90765299/179055937-08882505-08a6-433f-b7bb-4801483a7962.png)
@@ -15,6 +16,7 @@
 ### Role : Game Programmer
 ### Type of Game : Mobile Match 3
 ### DBGA in collaboration with Gameloft Sofia
+#### I worked on the logic for the UI and the battle scene
 #### January 2022 - February 2022
 #### Game Screenshot 
 ![154032288-4bf93f2f-e707-4592-8fa5-ceeffaa9d48b](https://user-images.githubusercontent.com/90765299/178112689-7f6d554f-d397-4b85-a375-3c8ebfef18da.png) \
@@ -25,6 +27,7 @@
 ### Role : Game Programmer
 ### Type of Game : First Person Simulator
 ### Project for Digital Bros Game Academy
+#### I worked on the logic for the UI, the sawstation and the dryer
 #### November 2021 - December 2021
 #### Game Screenshot
 ![image](https://user-images.githubusercontent.com/90765299/178112837-24ef7a5b-863a-4409-b933-d8d1d488731a.png)
@@ -35,6 +38,7 @@
 ### Role : Game Programmer
 ### Type of Game : Pong
 ### Project for Digital Bros Game Academy made with only Visual Scripting
+#### I worked on the logic UI and some enemies
 #### October 2021
 #### Game Screenshot
 ![image](https://user-images.githubusercontent.com/90765299/178560464-b3d58508-36ac-4a7c-b59e-a980ae8bdd3f.png)
