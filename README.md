@@ -1,3 +1,4 @@
+[LinkedIn](https://www.linkedin.com/in/nicola-p-731589235/)
 
 # My Portfolio
 
