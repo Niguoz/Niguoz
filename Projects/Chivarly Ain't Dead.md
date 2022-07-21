@@ -2,8 +2,9 @@
 ### October 2021
 ### Role : Game Programmer
 ### Type of Game : Pong
-### Project for Digital Bros Game Academy made with only Visual Scripting
+### Project for Digital Bros Game Academy
 ### I worked on the logic UI and some enemies
+#### The game was made with Unity and Visual Scripting
 ### Description 
 #### The Queen is in danger! Defend her from the attacks and survive this frantic, fantasy Arkanoid-inspired survival game.
 #### Game Screenshot
