@@ -6,7 +6,7 @@
 
 ### Sandcourier
  
-[![Sandcourier Promo Art](https://user-images.githubusercontent.com/90765299/180258560-3ee0671c-d908-4caf-bd2a-4733e846f170.png)](https://github.com/Niguoz/Niguoz/blob/main/Projects/Sandcourier.md)
+[![Sandcourier Promo Art](https://user-images.githubusercontent.com/90765299/180258560-3ee0671c-d908-4caf-bd2a-4733e846f170.png)  Click for more details](https://github.com/Niguoz/Niguoz/blob/main/Projects/Sandcourier.md)
 
 ### Horde
 ![Horde Promo Art](https://user-images.githubusercontent.com/90765299/180259729-4cf0b7d6-00e3-45c5-a741-4dd20790cbcc.png) \
