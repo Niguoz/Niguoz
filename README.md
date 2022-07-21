@@ -9,7 +9,7 @@
 [Click here for more info](https://github.com/Niguoz/Niguoz/blob/main/Projects/Sandcourier.md)
 
 ### Horde
-![Horde Promo Art](https://user-images.githubusercontent.com/90765299/180259433-576d5f61-2e4b-4fa1-b898-2e647967cc7d.png) \
+![Horde Promo Art](https://user-images.githubusercontent.com/90765299/180259729-4cf0b7d6-00e3-45c5-a741-4dd20790cbcc.png) \
 [Click here for more info](https://github.com/Niguoz/Niguoz/blob/main/Projects/Horde.md)
 
 ## 2021
