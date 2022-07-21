@@ -5,10 +5,11 @@
 ## 2022
 
 ### Sandcourier
-[<img src="https://user-images.githubusercontent.com/90765299/180258560-3ee0671c-d908-4caf-bd2a-4733e846f170.png" alt="" width="720"/>  Click for more details](https://github.com/Niguoz/Niguoz/blob/main/Projects/Sandcourier.md)
+[<img src="https://user-images.githubusercontent.com/90765299/180258560-3ee0671c-d908-4caf-bd2a-4733e846f170.png" alt="" width="720"/> <br> Click for more details](https://github.com/Niguoz/Niguoz/blob/main/Projects/Sandcourier.md)
 
 ### Horde
 <img src="https://user-images.githubusercontent.com/90765299/180259729-4cf0b7d6-00e3-45c5-a741-4dd20790cbcc.png" alt="" width="720"/>
+
 [Click here for more info](https://github.com/Niguoz/Niguoz/blob/main/Projects/Horde.md)
 
 ## 2021
