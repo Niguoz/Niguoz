@@ -4,7 +4,7 @@
 ### Type of Game : First Person Simulator
 ### Project for Digital Bros Game Academy
 ### I worked on the logic for the UI, the sawstation and the dryer
-### The game was made with Unity and C# language.
+#### The game was made with Unity and C# language.
 ### Description
 #### In a world of superheroes you are the only person without powers, decide your destiny by washing the costumes and gadgets of the heroes or villains.
 #### Game Screenshot
