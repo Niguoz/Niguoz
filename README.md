@@ -1,7 +1,7 @@
 # Hello!! :wave:
 ### I'm Nicola Pellegrini, an Italian Junior Game Programmer. I would like to share my projects with you.
+### You can click on the proeject's image to gain more info.
 ### You can find me also on [LinkedIn](https://www.linkedin.com/in/nicola-p-731589235/).
-### You can click on the proeject's image to gain more info
 
 <h1 align="center"> My Portfolio </h1>
 
