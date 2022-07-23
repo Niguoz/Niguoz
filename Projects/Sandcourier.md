@@ -3,7 +3,7 @@
 ### Role : Game Programmer
 ### Type of Game : Driving with Narrative and Survival elements
 ### Used : Unity, C# and Articy Draft 3
-### [DBGA](https://dbgameacademy.it/) in collaboration with [34BigThings](https://34bigthings.com/).
+### [DBGA](https://dbgameacademy.it/) in collaboration with [34BigThings](https://34bigthings.com/)
 ### I worked on the logic for the resources/obstacles and their spawns, the sandstorm, the Sandworm, the Shop, the Inventory and most of the UI
 #### Game Screenshot
 ![Main Menu](https://user-images.githubusercontent.com/90765299/180596451-b5eb4cf6-df42-460d-96fc-fe1240489f35.png)
