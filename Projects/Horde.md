@@ -1,5 +1,5 @@
 ## Title : Horde
-#### Period : January/February 2022
+### Period : January/February 2022
 ### Role : Game Programmer
 ### Type of Game : Match 3 for Mobile and PC
 ### Used : Unity & C#
