@@ -4,7 +4,7 @@
 ### Type of Game : Pong
 ### Used : Unity & Visual Scripting
 ### Project for [Digital Bros Game Academy](https://dbgameacademy.it/).
-### I worked on the logic UI, some enemies and the Intermission screen.
+### I worked on the logic for the UI, some enemies and the Intermission screen.
 ### Description:
 #### "The Queen is in danger! Defend her from the attacks and survive this frantic, fantasy Arkanoid-inspired survival game".
 #### Game Screenshot
