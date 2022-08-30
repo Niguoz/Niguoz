@@ -2,7 +2,7 @@
 ### I'm Nicola Pellegrini, an Italian Junior Game Programmer. I would like to share my projects with you.
 ### You can click on the proeject's image to gain more info.
 ### You can find me also on [LinkedIn](https://www.linkedin.com/in/nicola-p-731589235/).
-
+<<!--
 <h1 align="center"> My Portfolio </h1>
 
 <h2 align="center"> 2022 </h2>
@@ -24,3 +24,4 @@
 <h3 align="center"> Chivarly Ain't Dead </h3>
 
 [<p align="center"> <img src="https://user-images.githubusercontent.com/90765299/180258594-1fa4b1f1-dbd1-4c68-aff0-2e671fc93621.png" alt="" width="720"/> <br>Click here for more info </p>](https://github.com/Niguoz/Niguoz/blob/main/Projects/Chivarly%20Ain't%20Dead.md)
+-->
